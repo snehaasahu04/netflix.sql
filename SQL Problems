@@ -1,0 +1,29 @@
+
+SQL PROBLEMS
+
+
+-- Beginner Level
+
+1. Count the number of users:
+2.List all the distinct subscription types:
+3.Find the total revenue generated from users who have the "Basic" subscription:
+4.Find the average age of users:
+5.List users who joined after a specific date (e.g., 01-Jan-2022):
+
+--Intermediate Level
+
+6.Find the total revenue from users grouped by country:
+7.Find the average revenue per subscription type:
+8.Get the number of users who have a subscription plan lasting more than 1 year:
+9.Identify the most popular device (by count) used by users:
+10.Calculate the percentage of male and female users:
+
+--Advanced Level
+
+11. Find users who haven't made a payment in the last 6 months:
+12. Find users who have a "Standard" subscription and are older than 30 years:
+13. Rank users by Monthly Revenue within each subscription type:
+14. Find the average revenue of users per country who joined in 2023:
+15. Find the number of users in each revenue range (e.g., 0-250, 250-500, etc.):
+
+

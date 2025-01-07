@@ -1,4 +1,4 @@
--- Advanced Level
+-- Advance Level
 
 -- 1. Find users who haven't made a payment in the last 6 months:
 
